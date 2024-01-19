@@ -1,2 +1,2 @@
 # Autokereskedes-MySql
-Egy autokereskedés weblapja Express.js-MySql-React segítségével.
+Egy autokereskedés weblapja Express.js-MySql-React.js segítségével.
